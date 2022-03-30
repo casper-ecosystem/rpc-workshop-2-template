@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+hostkeys/
+guestkeys/
+interaction.py
+.DS_Store
