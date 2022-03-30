@@ -1,4 +1,4 @@
-## Ready Player Casper Workshop 2
+## Ready Player Casper Workshop 2 Template
 A game of tic-tac-toe playable by two different players via Casper smart contracts.
 
 ## Install
